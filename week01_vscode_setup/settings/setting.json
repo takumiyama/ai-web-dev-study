@@ -1,1 +1,11 @@
-xxx
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": true
+  },
+  "editor.fontSize": 14,
+  "editor.tabSize": 2,
+  "files.autoSave": "onFocusChange"
+}
